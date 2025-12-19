@@ -1,0 +1,9 @@
+body{
+   background-color: beige;
+}
+nav, ul{
+    display: flex;
+}
+li{
+    color: black;
+}
