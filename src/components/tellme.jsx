@@ -6,4 +6,4 @@ function tellme() {
   )
 }
 
-export default tellme
+export default tellmegit
